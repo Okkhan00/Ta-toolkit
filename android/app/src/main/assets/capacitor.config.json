@@ -1,0 +1,9 @@
+{
+	"appId": "com.tabeer.tatoolkit",
+	"appName": "TA Toolkit",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"android": {
+		"allowMixedContent": false
+	}
+}
